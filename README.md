@@ -6,7 +6,7 @@
 
 ## Design:
 * Desktop:
-[<p align="center"><img height="400em" src="./design/projeto-calculadora-html.PNG" alt=" Projeto Calculadora HTML - Design">](https://matias-ezequiel-correa.github.io/projeto-calculadora-html/)<p>
+[<p align="center"><img height="400em" src="./src/design/projeto-calculadora-html.png" alt=" Projeto Calculadora HTML - Design">](https://matias-ezequiel-correa.github.io/projeto-calculadora-html/)<p>
 
 ## Tecnologias utilizadas:
 
